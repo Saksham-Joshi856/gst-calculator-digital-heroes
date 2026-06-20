@@ -1,19 +1,16 @@
 # GST Calculator
 
-A modern GST Calculator built with Next.js, TypeScript and Tailwind CSS.
+Live Demo:
+https://gst-calculator-digital-heroes-12er.vercel.app/
 
-## Features
+GitHub:
+https://github.com/Saksham-Joshi856/gst-calculator-digital-heroes
 
-- GST Calculation
-- Quick GST Rate Selection
-- Responsive Design
-- Real-time Results
+Built using:
+- Next.js
+- TypeScript
+- Tailwind CSS
 
-## Live Demo
-
-(Will be added after deployment)
-
-## Author
-
+Author:
 Saksham Joshi
 saksham.joshi08052006@gmail.com
